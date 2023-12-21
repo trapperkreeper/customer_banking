@@ -2,7 +2,7 @@
 
 ## Description
 
- This file was created for AI Bootcamp UNC with EdX, and started with starter
+ This file was created for AI Bootcamp UNC, and started with starter
  code provided by the class, including the starting account class (Account.py) and the explanation of the code included inside the functions (savings_account.py and cd_account.py) 
 
 ## Purpose 
