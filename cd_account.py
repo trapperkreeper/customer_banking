@@ -16,8 +16,8 @@ def create_cd_account(balance, interest_rate, months):
     # Create an instance of the `Account` class and pass in the balance and interest parameters.
     #  Hint: You need to add the interest as a value, i.e, 0.
     # ADD YOUR CODE HERE
-    interest_rate = float(interest_rate)
-    cd_account = Account(balance, interest_rate)
+    interest = 0.00
+    cd_account = Account(balance, interest)
     # Calculate interest earned
     # ADD YOUR CODE HERE
     
